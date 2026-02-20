@@ -1,0 +1,501 @@
+id,wikiDataId,name,country,countryCode,region,regionCode,regionWdId,latitude,longitude,population
+3228129,Q1650529,Achin,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.0894,70.683,0
+3301438,Q2714271,"Adraskan District",Afghanistan,AF,"Herat Province",HER,Q182844,33.705277777,61.995555555,0
+3198316,Q3918406,"Ahmadabad District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.773888888,69.339722222,0
+3223788,Q2674014,"Ajristan District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.466962,67.238846,0
+3382471,Q2830672,Alasay,Afghanistan,AF,"Kapisa Province",KAP,Q173816,34.925555555,69.809166666,0
+3322238,Q4703845,"Al Fulayyah","United Arab Emirates",AE,"Emirate of Ras Al Khaimah",RK,Q170024,25.740277777,55.98,0
+3515514,Q4117373,"Al Mamzar","United Arab Emirates",AE,"Emirate of Dubai",DU,Q613,25.309469444,55.342811111,0
+3671889,Q1262899,"Dubai Internet City","United Arab Emirates",AE,"Emirate of Dubai",DU,Q613,25.095,55.16,24000
+3386644,Q3694483,"Ab Band District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,32.983,67.967,0
+3339608,Q2572213,"Ab Kamari",Afghanistan,AF,"Badghis Province",BDG,Q172052,34.925,62.901666666,0
+3228129,Q1650529,Achin,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.0894,70.683,0
+3301438,Q2714271,"Adraskan District",Afghanistan,AF,"Herat Province",HER,Q182844,33.705277777,61.995555555,0
+3198316,Q3918406,"Ahmadabad District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.773888888,69.339722222,0
+3223788,Q2674014,"Ajristan District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.466962,67.238846,0
+3382471,Q2830672,Alasay,Afghanistan,AF,"Kapisa Province",KAP,Q173816,34.925555555,69.809166666,0
+3347217,Q2123756,"Ali Abad",Afghanistan,AF,"Kunduz Province",KDZ,Q186418,36.53,68.877777777,0
+3348637,Q1229725,"Alingar District",Afghanistan,AF,"Laghman Province",LAG,Q185442,34.8347,70.3603,0
+3422536,Q4726991,Alishing,Afghanistan,AF,"Laghman Province",LAG,Q185442,34.7044,70.1539,0
+3311911,Q3694490,Almar,Afghanistan,AF,"Faryab Province",FYB,Q173830,35.8464,64.5333,0
+3344645,Q4750544,Anaba,Afghanistan,AF,"Panjshir Province",PAN,Q181235,35.223888888,69.405277777,0
+3297891,Q1032484,"Anar Dara District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.7688,61.677246,0
+3294936,Q3694476,"Andar District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.318121,68.450131,0
+3218278,Q2376379,"Andarab District",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.628333333,69.177222222,120642
+3457115,Q13217328,Andkhoy,Afghanistan,AF,"Faryab Province",FYB,Q173830,36.95,65.11666667,0
+3224068,Q3694472,Aqcha,Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.904166666,66.208055555,0
+3351263,Q2217943,Archi,Afghanistan,AF,"Kunduz Province",KDZ,Q186418,36.963611111,69.157222222,0
+3326544,Q4789185,"Argahandab District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.12972222,66.92805556,0
+3408811,Q2669827,"Arghanj Khwa",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.95,70.116666666,18201
+3351578,Q2670898,Argo,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.11388889,70.525,0
+3197716,Q2663257,Asadabad,Afghanistan,AF,"Kunar Province",KNR,Q188147,34.86832,71.13003,0
+3317307,Q2214697,"Atghar District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,31.725,67.385,0
+3386930,Q3694404,Aybak,Afghanistan,AF,"Samangan Province",SAM,Q183015,36.20667,67.98661,0
+3393627,Q2215339,Azra,Afghanistan,AF,"Logar Province",LOG,Q6667298,34.109166666,69.624444444,0
+3261231,Q3694248,"Baghlani Jadid",Afghanistan,AF,"Baghlan Province",BGL,Q170309,36.326944444,68.624166666,198382
+3225420,Q799961,"Bagram District",Afghanistan,AF,"Parwan Province",PAR,Q188157,34.96666667,69.29277778,0
+3386712,Q3918397,"Baharak District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.9956,70.8932,80000
+3201806,Q3918376,"Baharak District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.832777777,69.395277777,0
+3272945,Q2929367,"Bak District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.53,70.076666666,0
+3339747,Q1812576,"Bakwa District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.25138889,62.9575,0
+3414199,Q2380868,"Bala Buluk District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.69888889,62.73,0
+3422672,Q2215327,"Balkhab District",Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,35.458055555,66.602222222,0
+3375638,Q2572224,"Bamyan District",Afghanistan,AF,"Bamyan Province",BAM,Q171382,34.81666667,67.81666667,0
+3338157,Q3309222,"Bangi District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.613333333,69.338055555,0
+3251427,Q798468,"Bar Kunar District",Afghanistan,AF,"Kunar Province",KNR,Q188147,35.0339,71.3583,0
+3239757,Q3918458,"Baraki Barak",Afghanistan,AF,"Logar Province",LOG,Q6667298,33.93,68.885277777,0
+3252222,Q3696136,"Barg-i Matal",Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.775,71.252777777,0
+3319404,Q1650491,"Barmal District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.714444444,69.275,0
+3437840,Q1647526,"Bati Kot",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.289444444,70.756666666,0
+3321586,Q4875129,Bazarak,Afghanistan,AF,"Panjshir Province",PAN,Q181235,34.55,70.55,0
+3726226,Q2217968,"Bihsud District",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.442777777,70.508888888,0
+3199575,Q4907641,Bilchiragh,Afghanistan,AF,"Faryab Province",FYB,Q173830,35.8386,65.2308,0
+3250207,Q3694291,Burka,Afghanistan,AF,"Baghlan Province",BGL,Q170309,36.240833333,69.162777777,0
+3918967,Q470684,"Camp Marmal",Afghanistan,AF,"Balkh Province",BAL,Q121104,36.711325,67.215775,0
+3230029,Q2725478,"Chaghcharan District",Afghanistan,AF,"Ghor Province",GHO,Q186392,34.5225,65.2517,0
+3442301,Q2468989,"Chah Ab District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.45004,69.8799,0
+3224747,Q1647479,"Chahar Burjak District",Afghanistan,AF,"Nimruz Province",NIM,Q183021,30.269588,62.151718,0
+3259654,Q5067672,"Chaharikar District",Afghanistan,AF,"Parwan Province",PAR,Q188157,34.9477,69.3116,0
+3317845,Q388289,"Chakhansur District",Afghanistan,AF,"Nimruz Province",NIM,Q183021,31.16666667,62.06666667,0
+3249002,Q1059332,"Chaki Wardak",Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,34.108555555,68.579775,0
+3292111,Q3309261,"Chal District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.4975,69.559166666,0
+3369921,Q798508,"Chapa Dara",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.982777777,70.599444444,0
+3299563,Q3694378,Chaparhar,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.32215,70.385284,0
+3225466,Q2673902,"Char Asiab",Afghanistan,AF,"Kabul Province",KAB,Q188933,34.387222222,69.072777777,0
+3615249,Q1062874,"Char Dara District",Afghanistan,AF,"Kunduz Province",KDZ,Q186418,36.6933,68.8014,0
+3318372,Q3694342,Charbolak,Afghanistan,AF,"Balkh Province",BAL,Q121104,36.833333333,66.639444444,91539
+3402650,Q2215285,"Charkh District",Afghanistan,AF,"Logar Province",LOG,Q6667298,33.7967,68.9411,0
+3238990,Q3694271,Charkint,Afghanistan,AF,"Balkh Province",BAL,Q121104,36.367777777,67.240277777,0
+3319664,Q4816628,"Charsadda District",Afghanistan,AF,"Ghor Province",GHO,Q186392,35.119444444,65.117777777,0
+3215411,Q2665173,Chawkay,Afghanistan,AF,"Kunar Province",KNR,Q188147,34.6961,70.9247,0
+3337594,Q3694243,Chimtal,Afghanistan,AF,"Balkh Province",BAL,Q121104,36.517777777,66.600833333,103630
+3337032,Q3696177,"Chishti Sharif District",Afghanistan,AF,"Herat Province",HER,Q182844,34.445277777,63.957222222,0
+3370077,Q4808942,"Dahana i Ghuri",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.823055555,68.458333333,0
+3346874,Q3012608,"Daman District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.220555555,65.749722222,0
+3318181,Q2705706,"Dand Aw Patan District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.791666666,69.910833333,0
+3214790,Q2663252,"Dangam District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.9925,71.4189,0
+3410839,Q3696140,Dara-I-Nur,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.706666666,70.585833333,0
+3325693,Q2663248,Dara-I-Pech,Afghanistan,AF,"Kunar Province",KNR,Q188147,34.954444444,70.816944444,0
+3415211,Q5222045,"Darah Hazara District",Afghanistan,AF,"Panjshir Province",PAN,Q181235,35.235555555,69.77,0
+3259363,Q13217376,"Darah Sof Balla",Afghanistan,AF,"Samangan Province",SAM,Q183015,35.680833333,67.2825,0
+3387562,Q13217378,"Darah Sof Payan",Afghanistan,AF,"Samangan Province",SAM,Q183015,36.025,67.347222222,0
+3268965,Q2670900,"Darayim District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.8725,70.46861111,0
+3392384,Q3918446,"Darqad District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.45379,69.49901,0
+3668653,Q2673995,Darwaz,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,38.227777777,70.911388888,0
+3431156,Q950043,"Darwazi Bala",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,38.128333333,71.225,0
+3365353,Q3694393,Darzab,Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.004444444,65.372777777,0
+3393231,Q2214871,"Dashti Qala District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.202222222,69.501666666,35347
+3285213,Q3696057,"Dawlat Abad",Afghanistan,AF,"Faryab Province",FYB,Q173830,36.421388888,64.896944444,0
+3284596,Q5242376,"Dawlat Shah",Afghanistan,AF,"Laghman Province",LAG,Q185442,34.9528,70.07,0
+3335089,Q2714244,"Dawlat Yar District",Afghanistan,AF,"Ghor Province",GHO,Q186392,34.580277777,65.751388888,0
+3354497,Q960735,Dawlatabad,Afghanistan,AF,"Balkh Province",BAL,Q121104,37.064166666,66.798055555,0
+3467202,Q3309249,"Day Mirdad",Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,34.2164,68.2952,0
+3421391,Q1183073,"Deh Rahwod District",Afghanistan,AF,"Uruzgan Province",URU,Q183028,32.62638889,65.47027778,0
+3211907,Q3769083,"Deh Sabz",Afghanistan,AF,"Kabul Province",KAB,Q188933,34.753513,69.267269,0
+3424073,Q1647702,"Dey Chopan District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.613333333,66.691111111,0
+3372572,Q429594,"Dih Yak District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.476413,68.763027,0
+3340800,Q5276655,"Dila District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.56376,68.13115,0
+3380146,Q2456306,"Dishu District",Afghanistan,AF,"Helmand Province",HEL,Q173821,29.879166666,63.174444444,0
+3368268,Q3696107,"Du Ab",Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.213888888,70.373333333,0
+3281448,Q2714251,"Du Layna District",Afghanistan,AF,"Ghor Province",GHO,Q186392,34.118611111,65.008055555,0
+3250390,Q2217855,"Dur Baba",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.098055555,70.963055555,0
+3016076,Q3694442,Dushi,Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.620833333,68.665833333,57000
+3277202,Q2399439,"Farah City District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.21768,62.25992,0
+3257051,Q5434830,"Farang Wa Gharu",Afghanistan,AF,"Baghlan Province",BGL,Q170309,36.136944444,69.681388888,0
+3415170,Q3918453,"Farkhar District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.47,69.960833333,0
+3384461,Q2714318,"Farsi District",Afghanistan,AF,"Herat Province",HER,Q182844,33.6974,63.0921,0
+3211064,Q3918456,Farza,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.793888888,69.017777777,0
+3282674,Q2887829,"Fayzabad District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.05083333,70.57972222,0
+3295692,Q3504927,"Fayzabad District",Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.704444444,66.329722222,0
+3434033,Q5445211,"Feroz Nakhchir",Afghanistan,AF,"Samangan Province",SAM,Q183015,36.456388888,67.577222222,0
+3366856,Q3695179,"Gardez District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.60134,69.24159,0
+3476099,Q794577,"Garmsir District",Afghanistan,AF,"Helmand Province",HEL,Q173821,31.1255,64.211,0
+3373883,Q1650508,"Gayan District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.975277777,69.399166666,0
+3199378,Q3694388,"Gelan District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,32.730974,67.636271,0
+3353659,Q2223465,Ghaziabad,Afghanistan,AF,"Kunar Province",KNR,Q188147,34.7158,70.7592,0
+3242823,Q3694458,"Ghazni District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.53423,68.43667,0
+3379911,Q3694402,"Ghorak District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,32.043888888,65.195555555,0
+3319700,Q1650493,"Ghorband District",Afghanistan,AF,"Parwan Province",PAR,Q188157,35,68.85,0
+3314326,Q2429826,"Ghormach District",Afghanistan,AF,"Badghis Province",BDG,Q172052,35.725555555,63.789444444,0
+3240539,Q1521844,"Ghurian District",Afghanistan,AF,"Herat Province",HER,Q182844,34.3438,61.4798,0
+3441775,Q3696219,"Giro District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.063055555,68.345833333,0
+3435561,Q2673481,"Gizab District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,33.401944444,66.265555555,0
+3195814,Q1650531,"Gomal District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.388888888,68.946666666,45873
+3193228,Q3918435,Gosfandi,Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,36.22138889,65.92777778,0
+3414462,Q2217848,Goshta,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.356111111,70.772222222,0
+3207915,Q3918379,Guldara,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.748055555,68.995277777,0
+3400558,Q2537755,"Gulistan District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.50666667,63.76916667,0
+3306588,Q2714281,"Gulran District",Afghanistan,AF,"Herat Province",HER,Q182844,35.1,61.67,0
+3292597,Q2216061,"Gurbuz District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.202222222,69.9425,29627
+3289673,Q5620616,Gurziwan,Afghanistan,AF,"Faryab Province",FYB,Q173830,35.632222222,65.283055555,0
+3404591,Q2714236,"Guzara District",Afghanistan,AF,"Herat Province",HER,Q182844,34.188888888,62.2225,0
+3278983,Q3696092,"Guzargahi Nur",Afghanistan,AF,"Baghlan Province",BGL,Q170309,36.229444444,69.574722222,0
+3263183,Q2215304,"Hazar Sumuch District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.926388888,69.569722222,0
+3226371,Q3696179,"Hazrati Sultan",Afghanistan,AF,"Samangan Province",SAM,Q183015,36.39,68.1908,0
+3312016,Q3696278,"Herat District",Afghanistan,AF,"Herat Province",HER,Q182844,34.34194,62.20306,0
+3390874,Q3125041,"Hesa Awal Kohistan",Afghanistan,AF,"Kapisa Province",KAP,Q173816,35.138611111,69.344722222,0
+3204554,Q3696113,"Hesa Duwum Kohistan",Afghanistan,AF,"Kapisa Province",KAP,Q173816,35.073333333,69.3325,0
+3362675,Q3694366,Hesarak,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.2934,69.7667,0
+3420645,Q1315873,"Imam Sahib District",Afghanistan,AF,"Kunduz Province",KDZ,Q186418,37.10841,68.85371,0
+3207336,Q3694433,"Injil District",Afghanistan,AF,"Herat Province",HER,Q182844,34.3001,62.2499,0
+3367444,Q3309230,"Ishkamish District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.367222222,69.39,0
+3374127,Q2670884,"Ishkashim District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.706388888,71.573055555,0
+3383565,Q6595513,"Ishtarlay District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,34.1,66.316666666,0
+3291418,Q1674831,Istalif,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.833,69.077,0
+3392931,Q249194,"Jabal Saraj District",Afghanistan,AF,"Parwan Province",PAR,Q188157,35.0657,69.2639,0
+3402479,Q3696517,Jaghatu,Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,33.8554,68.3951,0
+3214059,Q3694452,"Jaghatu District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.577222,68.185556,0
+3388001,Q2724474,"Jaghori District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.133055555,67.453611111,0
+3203593,Q13220172,Jalalabad,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.421944444,70.463611111,0
+3883366,Q1679783,Jalrez,Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,34.471944444,68.650555555,0
+3401818,Q3696213,"Janikhel District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.655277777,69.786666666,0
+3221655,Q6595993,"Janikhel District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.665,68.480555555,0
+3374512,Q2429284,"Jawand District",Afghanistan,AF,"Badghis Province",BDG,Q172052,35.059444444,64.150833333,0
+3348381,Q2670928,Jurm,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.8464,70.86012,0
+3726214,Q6344428,"Kabul District",Afghanistan,AF,"Kabul Province",KAB,Q188933,34.516666666,69.15,0
+3231273,Q2322035,Kahmard,Afghanistan,AF,"Bamyan Province",BAM,Q171382,35.31916667,67.63361111,0
+3422419,Q222963,"Kajaki District",Afghanistan,AF,"Helmand Province",HEL,Q173821,32.484166666,65.038611111,0
+3399867,Q3305166,"Kajran District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,33.214444444,65.6175,0
+3237195,Q6349243,"Kakar District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.86,67.181388888,0
+3391544,Q2215359,"Kalafgan District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.787777777,69.915,0
+3360191,Q3694285,Kaldar,Afghanistan,AF,"Balkh Province",BAL,Q121104,37.126944444,67.548888888,0
+3200142,Q3503777,Kama,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.4125,70.638888888,0
+3392293,Q1722904,Kamdesh,Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.483333333,71.316666666,0
+3327514,Q2673970,"Kandahar District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.6119,65.6811,0
+3287559,Q2630613,"Kang District",Afghanistan,AF,"Nimruz Province",NIM,Q183021,31.3211,61.83517,0
+3349909,Q2630333,"Karukh District",Afghanistan,AF,"Herat Province",HER,Q182844,34.5113,62.6276,0
+3392371,Q6398916,"Khadir District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,33.896666666,65.753888888,0
+3318555,Q1647498,"Khairkot District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.853611111,68.477777777,0
+3216864,Q2673881,"Khaki Jabbar",Afghanistan,AF,"Kabul Province",KAB,Q188933,34.365,69.433611111,0
+3400029,Q2710798,"Khaki Safed District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.65388889,62.10222222,0
+3353030,Q2670922,"Khakrez District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.985,65.47277778,0
+3380904,Q3694437,Khamyab,Afghanistan,AF,"Jowzjan Province",JOW,Q183036,37.313611111,65.721111111,0
+3396923,Q2217955,"Khan Abad",Afghanistan,AF,"Kunduz Province",KDZ,Q186418,36.603055555,69.104166666,0
+3236415,Q2630677,"Khanashin District",Afghanistan,AF,"Helmand Province",HEL,Q173821,30.833333333,63.5,0
+3212640,Q3694326,"Khani Chahar Bagh",Afghanistan,AF,"Faryab Province",FYB,Q173830,37.111111111,65.229722222,0
+3199026,Q1897927,Khaniqa,Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.783888888,66.128611111,0
+3412207,Q2215350,"Kharwar District",Afghanistan,AF,"Logar Province",LOG,Q6667298,33.695,68.892777777,0
+3425717,Q2665194,"Khas Kunar District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.6458,70.9008,0
+3308788,Q2215441,"Khas Uruzgan District",Afghanistan,AF,"Uruzgan Province",URU,Q183028,33,66.69,0
+3343422,Q2670874,Khash,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.940277777,70.725555555,0
+3350649,Q2630589,"Khash Rod District",Afghanistan,AF,"Nimruz Province",NIM,Q183021,31.777259,62.972405,0
+3289094,Q6401298,Khenj,Afghanistan,AF,"Panjshir Province",PAN,Q181235,35.429722222,69.784444444,0
+3295881,Q1035284,Khinjan,Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.471388888,68.973611111,0
+3373138,Q2444923,Khogyani,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.231388888,70.149444444,0
+3417504,Q4816997,"Khogyani District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.559166666,68.298888888,0
+3312964,Q2214789,Khoshi,Afghanistan,AF,"Logar Province",LOG,Q6667298,34.001388888,69.274722222,0
+3388085,Q2216038,"Khost (Matun) District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.34045,70.0038,0
+3277448,Q2749737,"Khost wa Fereng",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.904722222,69.664722222,0
+3436042,Q3696017,Khulm,Afghanistan,AF,"Balkh Province",BAL,Q121104,36.814444444,67.743333333,0
+3394665,Q3696240,"Khuram Wa Sarbagh",Afghanistan,AF,"Samangan Province",SAM,Q183015,35.9113,68.2862,0
+3404626,Q2673868,Khwahan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.8886,70.2194,0
+3283272,Q3918372,"Khwaja Bahauddin District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.339166666,69.5825,0
+3338861,Q2652585,"Khwaja Du Koh District",Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.948333333,65.612222222,0
+3203548,Q2215381,"Khwaja Ghar District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.01827,69.39796,0
+3305171,Q3696090,"Khwaja Hijran",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.97,68.29,0
+3384952,Q6403434,"Khwaja Sabz Posh",Afghanistan,AF,"Faryab Province",FYB,Q173830,36.058611111,64.965833333,0
+3314622,Q384741,"Khwaja Umari District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.675555555,68.421666666,0
+3359778,Q2879146,Kishim,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.77,70.13166667,0
+3327732,Q3694430,"Koh Band",Afghanistan,AF,"Kapisa Province",KAP,Q173816,35.1094,69.4275,0
+3391840,Q1650497,"Kohi Safi District",Afghanistan,AF,"Parwan Province",PAR,Q188157,34.7953,69.5261,0
+3389232,Q4809030,Kohistan,Afghanistan,AF,"Faryab Province",FYB,Q173830,35.3811,64.7561,0
+3262483,Q3694407,Kohistan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.42833333,70.68277778,0
+3200637,Q3696160,Kohistanat,Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,35.43834,65.93647,0
+3207807,Q513241,"Kohsan District",Afghanistan,AF,"Herat Province",HER,Q182844,34.613333333,61.166111111,0
+3261432,Q1647510,Kot,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.153055555,70.595277777,0
+3219101,Q280595,"Kuf Ab District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,38.0411,70.4786,0
+3472137,Q2217913,"Kunduz District",Afghanistan,AF,"Kunduz Province",KDZ,Q186418,36.72861111,68.86805556,0
+3241694,Q2537726,"Kushk District",Afghanistan,AF,"Herat Province",HER,Q182844,35.059439,62.295313,0
+3315575,Q2214387,"Kushki Kuhna District",Afghanistan,AF,"Herat Province",HER,Q182844,34.885833333,62.628611111,0
+3220734,Q3696145,"Kuz Kunar",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.559166666,70.606944444,0
+3199275,Q2217888,"Lal Pur",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.333333333,71.024722222,0
+3252605,Q2537782,"Lash Wa Juwayn District",Afghanistan,AF,"Farah Province",FRA,Q180330,31.82611111,61.23,0
+3303771,Q3918382,"Lazha Ahmadkhel District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.815277777,69.633888888,0
+3438811,Q2402318,"La‘l wa Sar Jangal District",Afghanistan,AF,"Ghor Province",GHO,Q186392,34.604166666,66.274166666,0
+3384795,Q3047144,"Mahmude Raqi",Afghanistan,AF,"Kapisa Province",KAP,Q173816,35.004722222,69.420833333,0
+3324930,Q6735338,"Maidan Shar District",Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,34.443888888,68.824722222,0
+3402716,Q2669299,"Maiwand District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.583611111,64.993333333,0
+3215488,Q3694369,"Malestan District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.29836,67.24322,0
+3226063,Q1889040,"Mandol District",Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.4,70.25,0
+3226203,Q2215517,"Mandozayi District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.316666666,69.78,0
+3287669,Q2665179,"Marawara District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.861666666,71.228888888,0
+3298269,Q3696085,Marmul,Afghanistan,AF,"Balkh Province",BAL,Q121104,36.634722222,67.335,0
+3371540,Q3918449,"Maruf District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.446388888,67.252777777,0
+3224782,Q1650524,"Mata Khan District",Afghanistan,AF,"Paktika Province",PKA,Q185575,33.296944444,68.886111111,0
+3459002,Q6004792,Maymana,Afghanistan,AF,"Faryab Province",FYB,Q173830,35.93333,64.75,0
+3241627,Q6005441,"Mazar-i-Sharif District",Afghanistan,AF,"Balkh Province",BAL,Q121104,36.70974,67.11682,0
+3347269,Q1229983,"Mihtarlam District",Afghanistan,AF,"Laghman Province",LAG,Q185442,34.645589,70.181422,0
+3268643,Q278470,"Mingajik District",Afghanistan,AF,"Jowzjan Province",JOW,Q183036,37.055277777,65.989166666,0
+3393067,Q6597749,"Mir Bacha Kot",Afghanistan,AF,"Kabul Province",KAB,Q188933,34.727222222,69.118333333,0
+3376685,Q6597733,"Miramor District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,33.825277777,66.943055555,0
+3443077,Q3918509,"Miyanishin District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,32.381111111,66.336388888,0
+3308876,Q2214402,"Mizan District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.178888888,66.506388888,0
+3332073,Q1889696,"Mohammad Agha",Afghanistan,AF,"Logar Province",LOG,Q6667298,34.176666666,69.221111111,0
+3260022,Q2217936,"Momand Dara",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.204722222,70.984166666,0
+3290724,Q4808934,Muqur,Afghanistan,AF,"Ghazni Province",GHA,Q180415,32.887661111,67.901572222,0
+3318746,Q2711334,Muqur,Afghanistan,AF,"Badghis Province",BDG,Q172052,35.02805556,63.27,0
+3341674,Q2714292,"Musa Qala District",Afghanistan,AF,"Helmand Province",HEL,Q173821,32.469166666,64.736388888,0
+3446172,Q3694503,"Musakhel District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.583888888,69.681944444,0
+3199767,Q3918437,Mussahi,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.369166666,69.218333333,0
+3286596,Q477326,"Nad Ali District",Afghanistan,AF,"Helmand Province",HEL,Q173821,31.578055555,63.790833333,0
+3238800,Q3696175,"Nadir Shah Kot District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.3111,69.6933,0
+3428051,Q2215504,"Nahri Saraj District",Afghanistan,AF,"Helmand Province",HEL,Q173821,31.834722222,64.6125,0
+3400645,Q3694351,"Nahri Shahi District",Afghanistan,AF,"Balkh Province",BAL,Q121104,36.84,67.18,0
+3184708,Q3694319,Nahrin,Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.998333333,69.028333333,107000
+3236864,Q2214818,"Namak Ab District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.471388888,69.714722222,0
+3429393,Q798530,"Narang Aw Badil District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.7533,71.0175,0
+3444994,Q2663271,"Nari District",Afghanistan,AF,"Kunar Province",KNR,Q188147,35.2103,71.525,0
+3224942,Q1650518,"Naw Bahar District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.217222222,67.570833333,0
+3385484,Q2673982,"Nawa District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,32.32361111,67.87722222,0
+3307279,Q2673865,"Nawur District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.791702,67.8582,0
+3476103,Q2456330,"Nawzad District",Afghanistan,AF,"Helmand Province",HEL,Q173821,32.2205,64.5768,0
+3357520,Q2217899,"Nazyan District",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.055833333,70.825833333,0
+3394783,Q2673998,"Nesh District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,32.388611111,65.705,0
+3415973,Q741985,"Nijrab District",Afghanistan,AF,"Kapisa Province",KAP,Q173816,35.046388888,69.646111111,0
+3257690,Q1650486,"Nika District",Afghanistan,AF,"Paktika Province",PKA,Q185575,33.200382,69.311593,0
+3039783,Q3218967,"Nili District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,33.71666667,66.11666667,30058
+3210947,Q6966017,Nirkh,Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,34.35647,68.73963,0
+3212515,Q798464,"Nurgal District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.693888888,70.731111111,0
+3307739,Q3696055,"Nurgaram District",Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.08333333,70.46666667,0
+3230684,Q2714266,"Obe District",Afghanistan,AF,"Herat Province",HER,Q182844,34.3734,63.1952,0
+3384397,Q1650535,"Omna District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.894166666,68.813333333,23400
+3386474,Q2217598,"Pachir Aw Agam",Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.087777777,70.280555555,0
+3397943,Q3696078,Paghman,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.58333333,68.95,0
+3417468,Q2321884,Panjab,Afghanistan,AF,"Bamyan Province",BAM,Q171382,34.3833,67.0167,0
+3363983,Q782087,"Panjwayi District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.073055555,65.158888888,0
+3357846,Q3696165,Parun,Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.4,70.8,0
+3387767,Q6598064,Paryan,Afghanistan,AF,"Panjshir Province",PAN,Q181235,35.6475,70.043333333,0
+3266039,Q260823,"Pasaband District",Afghanistan,AF,"Ghor Province",GHO,Q186392,33.6908,64.8564,0
+3426281,Q3696097,"Pashtun Kot",Afghanistan,AF,"Faryab Province",FYB,Q173830,35.81,64.778055555,0
+3258508,Q2714308,"Pashtun Zarghun District",Afghanistan,AF,"Herat Province",HER,Q182844,34.283333333,62.616666666,0
+3214464,Q3918385,Pul-i-Alam,Afghanistan,AF,"Logar Province",LOG,Q6667298,33.972222222,69.053611111,0
+3215339,Q3694310,"Puli Hisar",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.583611111,69.560277777,0
+3322846,Q3694465,"Puli Khumri",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.95,68.7,0
+3432742,Q2537771,"Pur Chaman District",Afghanistan,AF,"Farah Province",FRA,Q180330,33.14138889,63.86138889,0
+3307278,Q2537777,"Pusht Rod District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.3951,64.9561,0
+3408368,Q2429297,Qadis,Afghanistan,AF,"Badghis Province",BDG,Q172052,34.88138889,63.48416667,0
+3269941,Q2714329,"Qala i Kah District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.29361111,61.52638889,0
+3396032,Q3694462,"Qalandar District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.515,69.6778,0
+3472142,Q1650513,"Qalat District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.21925,66.97718,0
+3382256,Q2875955,Qalay-I-Zal,Afghanistan,AF,"Kunduz Province",KDZ,Q186418,37.0131,68.4603,0
+3331439,Q3918423,Qarabagh,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.849444444,69.176388888,0
+3001797,Q3500196,"Qarabagh District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.221111111,67.9875,0
+3389462,Q3694335,Qaramqol,Afghanistan,AF,"Faryab Province",FYB,Q173830,36.793055555,64.963055555,0
+3352561,Q1230045,Qarghayi,Afghanistan,AF,"Laghman Province",LAG,Q185442,34.507943,70.213669,0
+3312820,Q3694448,Qarqin,Afghanistan,AF,"Jowzjan Province",JOW,Q183036,37.291388888,66.094444444,0
+3312757,Q3694278,Qaysar,Afghanistan,AF,"Faryab Province",FYB,Q173830,35.6894,64.2947,0
+3347165,Q6597414,Qurghan,Afghanistan,AF,"Faryab Province",FYB,Q173830,37.035833333,64.942222222,0
+3343242,Q2215486,"Qush Tepa",Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.209722222,65.363333333,0
+131885,Q2670909,"Raghistan District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.665,70.6578,37000
+3337548,Q2673887,"Rashidan District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.6975,68.1475,0
+3208136,Q2217864,Rodat,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,35,68.85,0
+3429459,Q6596646,Rokha,Afghanistan,AF,"Panjshir Province",PAN,Q181235,35.256111111,69.477222222,0
+3405437,Q2121351,"Rustaq District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.141666666,69.804444444,0
+3386186,Q3694362,"Ruyi Du Ab",Afghanistan,AF,"Samangan Province",SAM,Q183015,35.6581,68.0478,0
+3275777,Q2215998,"Sabari District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.543611111,69.911666666,0
+3282483,Q2725416,"Saghar District",Afghanistan,AF,"Ghor Province",GHO,Q186392,33.6914,63.8669,0
+3435399,Q3014037,Salang,Afghanistan,AF,"Parwan Province",PAR,Q188157,35.3016,69.5261,0
+3291111,Q3695802,Sangcharak,Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,35.825238888,66.456555555,0
+3274049,Q6596884,"Sangi Takht District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,34.1925,65.912222222,0
+3287715,Q249296,"Sangin District",Afghanistan,AF,"Helmand Province",HEL,Q173821,32.0733,64.8378,0
+3273495,Q1647534,"Sar Hawza District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.26453889,68.52471389,0
+3326231,Q2214808,"Sar-e Pol",Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,35.609166666,66.304166666,0
+3390369,Q2213502,Saydabad,Afghanistan,AF,"Maidan Wardak Province",WAR,Q183056,33.8875,68.694444444,0
+3333088,Q7429172,"Sayed Khel",Afghanistan,AF,"Parwan Province",PAR,Q188157,35.046944444,69.262222222,0
+3417197,Q2489396,Sayghan,Afghanistan,AF,"Bamyan Province",BAM,Q171382,35.18333333,67.70805556,0
+3408852,Q2603020,"Sayid Karam District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.7125,69.479722222,0
+3231006,Q2215297,Sayyad,Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,36.22138889,65.92777778,0
+3317996,Q1650527,"Shah Joy District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,32.497777777,67.395,0
+3338430,Q2669304,"Shah Wali Kot District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,32.1,66,0
+3330860,Q2188005,"Shahidi Hassas District",Afghanistan,AF,"Uruzgan Province",URU,Q183028,32.92,65.48,0
+3321664,Q2719010,"Shahrak District",Afghanistan,AF,"Ghor Province",GHO,Q186392,34.1,64.2667,0
+3354663,Q3696221,"Shahri Buzurg",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.341111111,70.135555555,0
+3292697,Q2671111,"Shahristan District",Afghanistan,AF,"Daykundi Province",DAY,Q181220,33.707777777,66.4725,0
+3276254,Q6597254,"Shaigal Aw Shiltan District",Afghanistan,AF,"Kunar Province",KNR,Q188147,35.036388888,71.225,0
+3415510,Q3694304,Shakardara,Afghanistan,AF,"Kabul Province",KAB,Q188933,34.663888888,69.036388888,0
+3262822,Q3696127,"Shamal District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.315277777,69.532222222,0
+3210417,Q2213623,"Shamulzayi District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,31.821388888,67.770555555,0
+3221361,Q6597025,"Sharana District",Afghanistan,AF,"Paktika Province",PKA,Q185575,33.200277777,68.728611111,63626
+3360151,Q3918400,"Shekay District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,38.206388888,70.651666666,0
+3334992,Q1649423,"Shekh Ali District",Afghanistan,AF,"Parwan Province",PAR,Q188157,34.9463,68.5188,0
+3292047,Q2217882,Sherzad,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.19418,69.98013,0
+3347188,Q2537733,"Shib Koh District",Afghanistan,AF,"Farah Province",FRA,Q180330,32.1415,61.2096,0
+3297699,Q2482517,"Shibar District",Afghanistan,AF,"Bamyan Province",BAM,Q171382,33.93916667,67.71,0
+3296381,Q3694376,"Shibirghan District",Afghanistan,AF,"Jowzjan Province",JOW,Q183036,36.591388888,65.747777777,0
+3203898,Q3694396,Shighnan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.6167,71.45,0
+3351291,Q2714337,Shindand,Afghanistan,AF,"Herat Province",HER,Q182844,33.3036,62.14,0
+3333575,Q2214375,"Shinkay District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,31.92,67.156111111,0
+3351756,Q2217632,Shinwar,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.20575,70.79581,0
+3269109,Q1649418,Shinwari,Afghanistan,AF,"Parwan Province",PAR,Q188157,35.1158,69.0732,0
+3288279,Q3694468,"Shirin Tagab",Afghanistan,AF,"Faryab Province",FYB,Q173830,36.2675,64.8525,0
+3453674,Q2673974,Sholgara,Afghanistan,AF,"Balkh Province",BAL,Q121104,36.29404,66.90979,110600
+3287817,Q2673898,"Shorawak District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,30.1833,66.1,0
+3344703,Q3696060,Shortepa,Afghanistan,AF,"Balkh Province",BAL,Q121104,37.256388888,66.851388888,0
+3284202,Q6597008,Shotul,Afghanistan,AF,"Panjshir Province",PAN,Q181235,35.293888888,69.302777777,0
+3246258,Q3694409,Shuhada,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.104166666,71.163888888,0
+3214866,Q1864045,"Shwak District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.452,69.37,0
+3294772,Q2217922,"Sirkanay District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.7906,71.1086,0
+3342549,Q2215370,"Sozma Qala",Afghanistan,AF,"Sar-e Pol Province",SAR,Q182487,36.22138889,65.92777778,0
+3254221,Q2216027,"Spera District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.156666666,69.491111111,0
+3300758,Q2673896,"Spin Boldak District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,30.987777777,66.169722222,0
+3287336,Q3695826,Surkh-Rōd,Afghanistan,AF,"Nangarhar Province",NAN,Q178471,34.4,70.3667,0
+131617,Q6596821,"Surobi District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.7517,69.0472,48291
+3259212,Q2306269,Tagab,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.4721,70.3317,0
+3420058,Q1397654,Tagab,Afghanistan,AF,"Kapisa Province",KAP,Q173816,34.79717,69.67923,0
+3351235,Q3694424,"Tala wa Barfak",Afghanistan,AF,"Baghlan Province",BGL,Q170309,35.275277777,68.380555555,0
+3210295,Q3918440,"Taluqan City",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.716666666,69.516666666,0
+3355912,Q2254377,"Tarinkot District",Afghanistan,AF,"Uruzgan Province",URU,Q183028,32.682222222,65.916944444,0
+3221509,Q6595870,"Tarnak Aw Jaldak District",Afghanistan,AF,"Zabul Province",ZAB,Q139126,31.907222222,66.516388888,0
+3286225,Q2609226,"Taywara District",Afghanistan,AF,"Ghor Province",GHO,Q186392,33.5188,64.4319,0
+3322040,Q1647514,"Terwa District",Afghanistan,AF,"Paktika Province",PKA,Q185575,33.36675,68.93330556,11072
+3370297,Q2216048,"Tirazayi District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.383611111,70.190833333,0
+3440207,Q2670881,Tishkan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.770277777,70.395833333,0
+3203093,Q3179188,"Tsamkani District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.79,69.812777777,0
+3265560,Q2725449,"Tulak District",Afghanistan,AF,"Ghor Province",GHO,Q186392,33.9728,63.7067,0
+3441763,Q3694383,"Waghaz District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.42,68.2939,0
+3183076,Q2509959,Wakhan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.057222222,73.349166666,13000
+3322129,Q2217555,Wama,Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.183333333,70.8,0
+3285069,Q2482504,Waras,Afghanistan,AF,"Bamyan Province",BAM,Q171382,34.22,66.9019,0
+3187379,Q3918451,"Warsaj District",Afghanistan,AF,"Takhar Province",TAK,Q186395,36.095833333,70.138888888,42175
+3380458,Q1117631,"Washir District",Afghanistan,AF,"Helmand Province",HEL,Q173821,32.103055555,63.946666666,0
+3297122,Q798477,"Watapur District",Afghanistan,AF,"Kunar Province",KNR,Q188147,34.996111111,71.081944444,0
+3417396,Q2213873,Waygal,Afghanistan,AF,"Nuristan Province",NUR,Q167485,35.233333333,71.033333333,0
+3419105,Q1647535,"Waza Khwa District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.248888888,68.327222222,0
+3211396,Q1650502,"Wor Mamay District",Afghanistan,AF,"Paktika Province",PKA,Q185575,31.933611111,68.835,0
+3383493,Q2670933,Wurduj,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.76127778,71.18533333,0
+3408627,Q2673892,"Yaftali Sufla",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.311944444,70.370833333,0
+3405072,Q389352,"Yahyakhel District",Afghanistan,AF,"Paktika Province",PKA,Q185575,32.923055555,68.662222222,0
+3303951,Q2482509,Yakawlang,Afghanistan,AF,"Bamyan Province",BAM,Q171382,34.7333,66.9667,0
+3337796,Q2670891,Yamgan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.42777778,70.79805556,0
+3194798,Q3918442,"Yangi Qala District",Afghanistan,AF,"Takhar Province",TAK,Q186395,37.460833333,69.670277777,0
+3400184,Q2670916,Yawan,Afghanistan,AF,"Badakhshan Province",BDS,Q165376,37.528055555,70.380555555,0
+3395961,Q1647530,"Yusufkhel District",Afghanistan,AF,"Paktika Province",PKA,Q185575,33.05,68.645833333,0
+3301513,Q140102,"Zadran District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.38333333,69.53333333,0
+3393176,Q3694399,"Zana Khan District",Afghanistan,AF,"Ghazni Province",GHA,Q180415,33.679166666,68.665833333,0
+3363898,Q2630700,"Zaranj District",Afghanistan,AF,"Nimruz Province",NIM,Q183021,30.96,61.86,0
+3444580,Q3696152,Zari,Afghanistan,AF,"Balkh Province",BAL,Q121104,35.847222222,66.726111111,0
+3350843,Q2262484,"Zazi District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.977777777,69.672777777,0
+3362696,Q2216011,"Zazi Maidan District",Afghanistan,AF,"Khost Province",KHO,Q185752,33.640833333,70.078888888,0
+3339998,Q198331,"Zebak District",Afghanistan,AF,"Badakhshan Province",BDS,Q165376,36.426666666,71.341944444,0
+3238190,Q2710776,"Zendeh Jan District",Afghanistan,AF,"Herat Province",HER,Q182844,34.3695,61.7294,0
+3256324,Q1650506,"Zerok District",Afghanistan,AF,"Paktika Province",PKA,Q185575,33.1597,69.3197,0
+3255639,Q2673873,"Zhari District",Afghanistan,AF,"Kandahar Province",KAN,Q173808,31.6418,65.39856,0
+3244540,Q2277263,"Zurmat District",Afghanistan,AF,"Paktia Province",PIA,Q182493,33.423888888,69.041666666,0
+3813043,Q124637950,Gunthorpes,"Antigua and Barbuda",AG,"Saint George",03,Q1770796,17.10975,-61.79989,0
+3333500,Q2542543,Aliko,Albania,AL,"Vlorë County",12,Q192849,39.866666666,20.083333333,0
+3267264,Q2714965,Aranitas,Albania,AL,"Fier County",04,Q231900,40.6,19.8,0
+3243582,Q2711977,Armen,Albania,AL,"Vlorë County",12,Q192849,40.533333333,19.6,0
+3313083,Q2625153,Arras,Albania,AL,"Dibër County",09,Q192866,41.75,20.28333,0
+3248313,Q2712313,Arrën,Albania,AL,"Kukës County",07,Q231896,41.916666666,20.283333333,0
+3291734,Q2723857,Baldushk,Albania,AL,"Tirana County",11,Q229892,41.216666666,19.8,0
+3194618,Q2712857,Ballaban,Albania,AL,"Gjirokastër County",05,Q193454,40.416666666,20.133333333,0
+3441165,Q2619301,Ballagat,Albania,AL,"Fier County",04,Q231900,41,19.766666666,0
+3360774,Q2737794,Balldren,Albania,AL,"Lezhë County",08,Q193436,41.816666666,19.633333333,0
+3341200,Q2617991,Barmash,Albania,AL,"Korçë County",06,Q193464,40.283333333,20.616666666,0
+3326623,Q22008203,"Bashkia e Burrelit",Albania,AL,"Dibër County",09,Q192866,41.61667,20,0
+3397641,Q13037416,"Bashkia e Koplikut",Albania,AL,"Shkodër County",10,Q193438,42.2167,19.4333,0
+3240069,Q22009697,"Bashkia e Lacit",Albania,AL,"Lezhë County",08,Q193436,41.63333,19.71667,0
+3363610,Q22009769,"Bashkia e Mamurrasit",Albania,AL,"Lezhë County",08,Q193436,41.56667,19.68333,0
+3362298,Q22005546,"Bashkia e Pogradecit",Albania,AL,"Korçë County",06,Q193464,40.9,20.65,61530
+3203557,Q2648733,Baz,Albania,AL,"Dibër County",09,Q192866,41.63333333,19.93333333,0
+3302731,Q13037405,"Belsh municipality",Albania,AL,"Elbasan County",03,Q193790,40.98333,19.88333,19503
+3316786,Q16350054,"Berat Municipality",Albania,AL,"Berat County",01,Q189296,40.7,19.93333,60031
+3069623,Q2619531,Bicaj,Albania,AL,"Kukës County",07,Q231896,42,20.416666666,5631
+3350697,Q2633885,Blerim,Albania,AL,"Shkodër County",10,Q193438,42.183333333,20.15,0
+3252773,Q2534946,Blinisht,Albania,AL,"Lezhë County",08,Q193436,41.883333333,19.633333333,0
+3185998,Q896889,Bradashesh,Albania,AL,"Elbasan County",03,Q193790,41.10383,20.02152,10700
+3207481,Q2712006,Brataj,Albania,AL,"Vlorë County",12,Q192849,40.266666666,19.666666666,2849
+3382140,Q2618325,Bubq,Albania,AL,"Durrës County",02,Q192853,41.466666666,19.65,0
+3215989,Q2619196,Bubullimë,Albania,AL,"Fier County",04,Q231900,40.816666666,19.65,0
+3035343,Q2430736,Bujan,Albania,AL,"Kukës County",07,Q231896,42.333333333,20.083333333,2550
+3310547,Q13037407,"Bulqizë Municipality",Albania,AL,"Dibër County",09,Q192866,41.483333333,20.216666666,31210
+3380740,Q2712439,Bushat,Albania,AL,"Shkodër County",10,Q193438,41.966666666,19.533333333,0
+3345912,Q2712261,Bushtricë,Albania,AL,"Kukës County",07,Q231896,41.883333333,20.4,0
+3195678,Q2713993,Buçimas,Albania,AL,"Korçë County",06,Q193464,40.883333333,20.683333333,0
+3434938,Q2633962,Bytyç,Albania,AL,"Kukës County",07,Q231896,42.3,20.2,1563
+3431839,Q2633775,Bërdicë,Albania,AL,"Shkodër County",10,Q193438,42.016666666,19.483333333,0
+3214978,Q2725157,Bërxullë,Albania,AL,"Tirana County",11,Q229892,41.383333333,19.7,9883
+3280585,Q2712242,Bërzhitë,Albania,AL,"Tirana County",11,Q229892,41.25,19.9,0
+3410167,Q2619562,Cakran,Albania,AL,"Fier County",04,Q231900,40.6,19.616666666,0
+3360217,Q2725197,Cepo,Albania,AL,"Gjirokastër County",05,Q193454,40.116666666,20.083333333,0
+3348950,Q1110392,Dajç,Albania,AL,"Shkodër County",10,Q193438,42,19.416666666,0
+3403312,Q2737800,Dajç,Albania,AL,"Lezhë County",08,Q193436,41.916666666,19.6,0
+2994447,Q2617629,Dardhas,Albania,AL,"Korçë County",06,Q193464,40.85,20.666666666,2182
+3261064,Q16350062,"Delvinë municipality",Albania,AL,"Vlorë County",12,Q192849,39.95,20.1,7598
+3200134,Q2712250,Derjan,Albania,AL,"Dibër County",09,Q192866,41.683333333,20.033333333,0
+3503625,Q13037406,Devoll,Albania,AL,"Korçë County",06,Q193464,40.60078,20.93814,26716
+3424893,Q2712000,Dhivër,Albania,AL,"Vlorë County",12,Q192849,39.833333333,20.166666666,0
+3503408,Q2713459,Dishnicë,Albania,AL,"Gjirokastër County",05,Q193454,40.333333333,20.15,0
+131968,Q16350064,"Divjakë municipality",Albania,AL,"Fier County",04,Q231900,41,19.5333,34254
+3209990,Q1258368,Drenovë,Albania,AL,"Korçë County",06,Q193464,40.583333333,20.783333333,0
+3381425,Q2721263,"Dropull i Poshtëm",Albania,AL,"Gjirokastër County",05,Q193454,40.016666666,20.183333333,0
+3349184,Q2713346,"Dropull i Sipërm",Albania,AL,"Gjirokastër County",05,Q193454,39.916666666,20.3,0
+3232360,Q16350067,"Durrës Municipality",Albania,AL,"Durrës County",02,Q192853,41.3167,19.45,175110
+3498078,Q2619591,Dushk,Albania,AL,"Fier County",04,Q231900,41,19.666666666,0
+3255301,Q2619185,Dërmenas,Albania,AL,"Fier County",04,Q231900,40.75,19.5,0
+3261482,Q16350072,"Elbasan municipality",Albania,AL,"Elbasan County",03,Q193790,41.1,20.083333333,141714
+3219169,Q2420141,Fajzë,Albania,AL,"Kukës County",07,Q231896,42.166666666,20.35,0
+3300275,Q2737806,Fan,Albania,AL,"Lezhë County",08,Q193436,41.933333333,20.15,0
+3857968,Q2723862,Farkë,Albania,AL,"Tirana County",11,Q229892,41.283333333,19.85,0
+3394488,Q16350079,"Fier municipality",Albania,AL,"Fier County",04,Q231900,40.7,19.5333,0
+3650083,Q2429991,Fier-Shegan,Albania,AL,"Fier County",04,Q231900,40.866666666,19.783333333,0
+3045181,Q1284607,Fierzë,Albania,AL,"Kukës County",07,Q231896,42.262923,20.025072,742
+3290298,Q3744643,Fierzë,Albania,AL,"Elbasan County",03,Q193790,40.916666666,19.85,0
+3258617,Q73664,"Finiq municipality",Albania,AL,"Vlorë County",12,Q192849,39.9,20.05,1333
+3280120,Q22002807,"Finiq municipality",Albania,AL,"Vlorë County",12,Q192849,39.9,20.05,0
+3248723,Q2418865,Frakull,Albania,AL,"Fier County",04,Q231900,40.65,19.5,0
+3415860,Q1862745,Frashër,Albania,AL,"Gjirokastër County",05,Q193454,40.366666666,20.433333333,0
+3263305,Q2619570,Fratar,Albania,AL,"Fier County",04,Q231900,40.516666666,19.816666666,0
+3328416,Q2619017,Funarë,Albania,AL,"Elbasan County",03,Q193790,41.2,20.066666666,2122
+3381124,Q19931576,"Fushë-Arrëz municipality",Albania,AL,"Shkodër County",10,Q193438,42.06667,20.03333,0
+3354749,Q538502,Fushë-Bulqizë,Albania,AL,"Dibër County",09,Q192866,41.516666666,20.3,3342
+3366715,Q2363672,Fushë-Kuqe,Albania,AL,"Lezhë County",08,Q193436,41.633333333,19.616666666,0
+3275868,Q2417554,Fushë-Çidhën,Albania,AL,"Dibër County",09,Q192866,41.75,20.333333333,0
+3278086,Q2712274,Gjegjan,Albania,AL,"Shkodër County",10,Q193438,41.933333333,20.016666666,0
+3311514,Q37611,Gjepalaj,Albania,AL,"Durrës County",02,Q192853,41.333333333,19.583333333,3449
+3354137,Q304112,Gjerbës,Albania,AL,"Berat County",01,Q189296,40.633333333,20.25,813
+3269616,Q2618260,Gjergjan,Albania,AL,"Elbasan County",03,Q193790,41.05,20.033333333,5126
+3274357,Q2619548,Gjinaj,Albania,AL,"Kukës County",07,Q231896,42.116666666,20.433333333,0
+3342828,Q2619030,Gjinar,Albania,AL,"Elbasan County",03,Q193790,41.033333333,20.183333333,3478
+3405519,Q16350087,"Gjirokastër municipality",Albania,AL,"Gjirokastër County",05,Q193454,40.08333,20.11667,0
+3393240,Q2525651,Gjoricë,Albania,AL,"Dibër County",09,Q192866,41.51667,20.43333,0
+3250418,Q2619607,Gjoçaj,Albania,AL,"Elbasan County",03,Q193790,41.033333333,19.716666666,0
+3328384,Q2633821,Golaj,Albania,AL,"Kukës County",07,Q231896,42.25,20.366666666,0
+3418618,Q747820,Golem,Albania,AL,"Tirana County",11,Q229892,41.24583,19.53472,0
+3426732,Q2618662,Gostimë,Albania,AL,"Elbasan County",03,Q193790,41,20,0
+3266757,Q2633795,Gosë,Albania,AL,"Tirana County",11,Q229892,41.09111111,19.615,0
+3365307,Q2619596,Grabian,Albania,AL,"Fier County",04,Q231900,40.95,19.583333333,0
+3299067,Q2618964,Gracen,Albania,AL,"Elbasan County",03,Q193790,41.15,19.966666666,2192
+3337915,Q2618295,Grekan,Albania,AL,"Elbasan County",03,Q193790,40.933333333,19.95,0
+3426547,Q2633738,Gruemirë,Albania,AL,"Shkodër County",10,Q193438,42.2,19.466666666,0
+3238635,Q2633836,Grykë-Çajë,Albania,AL,"Kukës County",07,Q231896,41.883333333,20.5,0
+3282970,Q530436,"Gur i Zi",Albania,AL,"Shkodër County",10,Q193438,42.05,19.566666666,8085
+3422031,Q2449717,Gurrë,Albania,AL,"Dibër County",09,Q192866,41.533333333,20.016666666,0
+3345074,Q2542430,Hajmel,Albania,AL,"Shkodër County",10,Q193438,41.95,19.633333333,0
+3322761,Q2619587,Hekal,Albania,AL,"Fier County",04,Q231900,40.55,19.733333333,0
+3245256,Q2430668,Helmës,Albania,AL,"Tirana County",11,Q229892,41.17916667,19.59833333,0
+3246348,Q2548815,Horë-Vranisht,Albania,AL,"Vlorë County",12,Q192849,40.216666666,19.683333333,0
+3435384,Q2619021,Hotolisht,Albania,AL,"Elbasan County",03,Q193790,41.15,20.4,0
+3381280,Q2617941,Hoçisht,Albania,AL,"Korçë County",06,Q193464,40.6,20.916666666,0
+3420382,Q2570180,Iballë,Albania,AL,"Shkodër County",10,Q193438,42.183333333,20,1129
+3228638,Q2723870,Ishëm,Albania,AL,"Durrës County",02,Q192853,41.533333333,19.6,0
+3411742,Q2618348,Kajan,Albania,AL,"Elbasan County",03,Q193790,40.916666666,19.883333333,0
+3429898,Q2617985,"Kala e Dodës",Albania,AL,"Dibër County",09,Q192866,41.816666666,20.433333333,0
+3222751,Q2625121,Kalis,Albania,AL,"Dibër County",09,Q192866,41.833333333,20.4,0
+3257298,Q2737812,Kallmet,Albania,AL,"Lezhë County",08,Q193436,41.8475,19.69,0
+3264019,Q13037410,"Kamëz municipality",Albania,AL,"Tirana County",11,Q229892,41.38333,19.75,104190
+3355156,Q2619613,Karinë,Albania,AL,"Elbasan County",03,Q193790,41.066666666,19.716666666,0
+3419894,Q2712186,Kashar,Albania,AL,"Tirana County",11,Q229892,41.35,19.716666666,0
+3348183,Q2633801,Kastrat,Albania,AL,"Shkodër County",10,Q193438,42.283333333,19.433333333,0
+3204672,Q2625195,Kastriot,Albania,AL,"Dibër County",09,Q192866,41.716666666,20.383333333,0
+3374873,Q2431917,"Katund i Ri",Albania,AL,"Durrës County",02,Q192853,41.4,19.516666666,0
+3445251,Q13037415,"Kavajë municipality",Albania,AL,"Tirana County",11,Q229892,41.18333,19.55,0
+3372109,Q2712449,Kaçinar,Albania,AL,"Lezhë County",08,Q193436,41.883333333,19.9,0
+3196506,Q2433124,Kelmend,Albania,AL,"Shkodër County",10,Q193438,42.466666666,19.566666666,0
+3383192,Q2618960,Kodovjat,Albania,AL,"Elbasan County",03,Q193790,40.8,20.25,2355
+3358748,Q2417580,Kodër-Thumanë,Albania,AL,"Durrës County",02,Q192853,41.55,19.683333333,0
+3512527,Q10780849,Kolonjë,Albania,AL,"Korçë County",06,Q193464,40.3333,20.6833,11070
+3004771,Q2715015,Kolsh,Albania,AL,"Kukës County",07,Q231896,42.083333333,20.35,1250
+3269083,Q379088,Kolsh,Albania,AL,"Lezhë County",08,Q193436,41.778888888,19.671944444,4228
+3308756,Q2713331,Komsi,Albania,AL,"Dibër County",09,Q192866,41.583333333,19.983333333,0
+3349397,Q22005203,"Komuna e Klosit",Albania,AL,"Dibër County",09,Q192866,41.5,20.1,0
